@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล :นายธีรพันทุ์ ไกรทองอยู่
 
-GitHub Page URL :https://github.com/pubkung1ez/lab11-680610684.git
+GitHub Page URL :https://pubkung1ez.github.io/lab11-680610684/
 
 ---
 
